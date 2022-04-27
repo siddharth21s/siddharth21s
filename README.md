@@ -1,21 +1,21 @@
-### Hola!
+## Hola!
 
-💯What's better? to know the syntactical sugar😎 or the logical solution🧠?
+💯What's better? to know the syntactical sugar😎 or the logical solution🧠?  
  My answer: Logical solution🧠!!
-
-✨Technologies: NodeJS🐢🚀, FastAPI⚡️🌟, Django🔫, TensorFlow 🤯😱, Web tech 🕸, 
- AWS🌩, ReactJS⚛️💖, Android/iOS📱,
-
-😉Languages: Python🐍💘, JavaScript🦏🧡, C🛠, C++⚔️
-
-🧠Fields of interest: Applied AI🤖, App-development🐎, Mathematics🧮, 
- Statistics📈, Enterprise🏢, FinTech💸!
-
-Sports: ⚽️🏀 (team playa🤟🏻) 🏸🏊
-🎼 Música: 🎸🎹
-Si, si, hablo en español😎. Poco pero suficiente💩!!!!
-
-
+  
+✨Technologies: NodeJS🐢🚀, FastAPI⚡️🌟, Django🔫, TensorFlow 🤯😱, Web tech 🕸,  
+ AWS🌩, ReactJS⚛️💖, Android/iOS📱,  
+  
+😉Languages: Python🐍💘, JavaScript🦏🧡, C🛠, C++⚔️  
+  
+🧠Fields of interest: Applied AI🤖, App-development🐎, Mathematics🧮,  
+ Statistics📈, Enterprise🏢, FinTech💸!  
+  
+Sports: ⚽️🏀 (team playa🤟🏻) 🏸🏊  
+🎼 Música: 🎸🎹  
+Si, si, hablo en español😎. Poco pero suficiente💩!!!!  
+  
+  
 <!--
 **siddharth21s/siddharth21s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
