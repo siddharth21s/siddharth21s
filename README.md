@@ -3,30 +3,18 @@
 💯What's better? to know the syntactical sugar😎 or the logical solution🧠?  
  My answer: Logical solution🧠!!
   
-✨Technologies: NodeJS🐢🚀, FastAPI⚡️🌟, Django🔫, TensorFlow 🤯😱, Web tech 🕸,  
+✨Technologies: NodeJS: Express/Nest/Next🐢🚀, Python: FastAPI⚡️🌟/Flask/Django🔫, TensorFlow 🤯😱, Web tech 🕸,  
  AWS🌩, ReactJS⚛️💖, Android/iOS📱,  
   
-😉Languages: Python🐍💘, JavaScript🦏🧡, C🛠, C++⚔️  
+😉Languages: Python🐍💘, JavaScript🦏🧡, Go🥶, C🛠, C++⚔️, Sometimes Java👽  
   
-🧠Fields of interest: Applied AI🤖, App-development🐎, Mathematics🧮,  
- Statistics📈, Enterprise🏢, FinTech💸!  
+🧠Fields of interest: System Design🦋, Applied AI🤖, Web-Dev🐠, App-development🐎, Mathematics🧮,  
+ Statistics📈, Enterprise🏢, FinTech💸, Game-dev🎮!
   
 Sports: ⚽️🏀 (team playa🤟🏻) 🏸🏊  
 🎼 Música: 🎸🎹  
 Si, si, hablo en español😎. Poco pero suficiente💩!!!!  
   
-  
-<!--
-**siddharth21s/siddharth21s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 reach me: _siddharthsadaphule21@gmail.com_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
